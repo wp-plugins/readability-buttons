@@ -6,7 +6,7 @@ Requires at least: 1.5
 Tested up to: 3.1
 Stable tag: 1.0
 
-Readability Buttons displays readability.com official button on your sidebar. I use the simplest way to insert the codes for you, no sql strings will be inserted, no options to configure, you probably need this plugin if you're runing a WordPress multisite and want your users to add readability.com script by themselves.
+Readability Buttons displays readability.com official button on your sidebar.
 
 == Description ==
 Readability Buttons displays readability.com official button on your sidebar. I use the simplest way to insert the codes for you, no sql strings will be inserted, no options to configure, you probably need this plugin if you're runing a WordPress multisite and want your users to add readability.com script by themselves.
