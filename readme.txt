@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
 Requires at least: 1.5
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 Readability Buttons displays readability.com official button on your sidebar.
 
@@ -17,10 +17,26 @@ Readability Buttons displays readability.com official button on your sidebar. I 
 
 == Installation ==
 
-1. Extract .zip file to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+WordPress:
+
+1. Upload the extracted files to the `/wp-content/plugins/` directory
+2. In 'Plugins' page, choose 'Activate'
+
+Multisite enabled WordPress:
+
+1. Upload the extracted files to the `/wp-content/plugins/` directory
+2. In 'Site Admin' mode (You need log in as site admin), go to 'Plugins' page, choose 'Network Activate'
+3. Just FYI, you can also activate this plugin individually for different sites.
+
+Old-styled WordPress Mu:
+
+1. Upload the extracted files to the `/wp-content/mu-plugins/` directory
+2. That's all. 
 
 == Changelog ==  
+
+= 1.1 =
+* Bump version to let you know it still works.
 
 = 1.0 =
 * First release
