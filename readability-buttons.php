@@ -3,7 +3,7 @@
 Plugin Name: Readability Widget (readability.com)
 Plugin URI: http://nio2.com/resources/readability-buttons/
 Description: Add readability.com button on your sidebar.
-Version: 1.1
+Version: 1.0
 Author: Sparanoid
 Author URI: http://sparanoid.com/
 License: GPLv2 or later
