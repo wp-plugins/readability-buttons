@@ -2,18 +2,15 @@
 Contributors: Sparanoid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
-Requires at least: 1.5
-Tested up to: 3.3
-Stable tag: 1.1
+Requires at least: 2.8
+Tested up to: 3.4
+Stable tag: 2.0
 
-Readability Buttons displays readability.com official button on your sidebar.
+Add readability.com widget on your site.
 
 == Description ==
-Readability Buttons displays readability.com official button on your sidebar. I use the simplest way to insert the codes for you, no sql strings will be inserted, no options to configure, you probably need this plugin if you're runing a WordPress multisite and want your users to add readability.com script by themselves.
 
-== Screenshots ==
-
-1. What it looks like on default theme.
+Add readability.com widget on your site. A must-have plugin if you're a Readability publisher. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
 == Installation ==
 
@@ -33,12 +30,21 @@ Old-styled WordPress Mu:
 1. Upload the extracted files to the `/wp-content/mu-plugins/` directory
 2. That's all. 
 
+== Screenshots ==
+
+1. What it looks like on default theme.
+2. All settings on readability.com are available to change.
+
 == Upgrade Notice ==
 
-= 1.1 =
-* Just bump version to tell everyone this plugin still works.
+= 2.0 =
+* Update whitespaces
 
-== Changelog ==  
+== Changelog ==
+
+= 2.0 =
+* A change since the previous version.
+* Another change.
 
 = 1.1 =
 * Bump version to let you know it still works.
