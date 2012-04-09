@@ -38,13 +38,12 @@ Old-styled WordPress Mu:
 == Upgrade Notice ==
 
 = 2.0 =
-* Update whitespaces
+* Add options, now all settings on readability.com are available to change.
 
 == Changelog ==
 
 = 2.0 =
-* A change since the previous version.
-* Another change.
+* Add options, now all settings on readability.com are available to change.
 
 = 1.1 =
 * Bump version to let you know it still works.
