@@ -3,7 +3,7 @@
 Plugin Name: Readability Buttons (readability.com)
 Plugin URI: http://sparanoid.com/lab/readability-widget/
 Description: Add readability.com widget for your site.
-Version: 2.0
+Version: 2.0.1
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
 Author Email: info@sparanoid.com
@@ -41,6 +41,9 @@ class Readability_Widget extends WP_Widget {
 	
 		load_plugin_textdomain( 'readability_buttons', false, plugin_dir_path( __FILE__ ) . '/lang/' );
 		
+		register_activation_hook( __FILE__, array( &$this, 'activate' ) );
+		register_deactivation_hook( __FILE__, array( &$this, 'deactivate' ) );
+		
 		// TODO: update classname and description
     	// TODO: replace 'plugin-name-locale' to be named more plugin specific. other instances exist throughout the code, too.
 		parent::__construct(
@@ -58,7 +61,7 @@ class Readability_Widget extends WP_Widget {
 	} // end constructor
 
 	/*--------------------------------------------------*/
-	/* API Functions
+	/* Widget API Functions
 	/*--------------------------------------------------*/
 	
 	/**
@@ -146,6 +149,28 @@ class Readability_Widget extends WP_Widget {
     	include( plugin_dir_path(__FILE__) . '/views/admin.php' );
 		
 	} // end form
+	
+	/*--------------------------------------------------*/
+	/* Public Functions
+	/*--------------------------------------------------*/
+	
+	/**
+	 * Fired when the plugin is activated.
+	 *
+	 * @params	$network_wide	True if WPMU superadmin uses "Network Activate" action, false if WPMU is disabled or plugin is activated on an individual blog 
+	 */
+	function activate( $network_wide ) {
+		// TODO define activation functionality here
+	} // end activate
+	
+	/**
+	 * Fired when the plugin is deactivated.
+	 *
+	 * @params	$network_wide	True if WPMU superadmin uses "Network Activate" action, false if WPMU is disabled or plugin is activated on an individual blog 
+	 */
+	function deactivate( $network_wide ) {
+		// TODO define deactivation functionality here		
+	} // end deactivate
 	
 	/*--------------------------------------------------*/
 	/* Private Functions
