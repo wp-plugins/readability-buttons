@@ -3,8 +3,8 @@ Contributors: Sparanoid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
 Requires at least: 2.8
-Tested up to: 3.4
-Stable tag: 2.0.2
+Tested up to: 3.5
+Stable tag: 2.0.3
 
 Add readability.com widget on your site.
 
@@ -28,7 +28,7 @@ Multisite enabled WordPress:
 Old-styled WordPress Mu:
 
 1. Upload the extracted files to the `/wp-content/mu-plugins/` directory
-2. That's all. 
+2. That's all.
 
 == Screenshots ==
 
@@ -36,6 +36,9 @@ Old-styled WordPress Mu:
 2. All settings on readability.com are available to change.
 
 == Upgrade Notice ==
+
+= 2.0.3 =
+* Moving plugin development repo from WordPress.org to GitHub. You can find the new repo at https://github.com/sparanoid/readability-buttons
 
 = 2.0.2 =
 * Upgrade widget plugin framework. Settings minor tweaks.
