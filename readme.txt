@@ -51,6 +51,9 @@ Old-styled WordPress Mu:
 
 == Changelog ==
 
+= 2.0.3 =
+* Moving plugin development repo from WordPress.org to GitHub. You can find the new repo at https://github.com/sparanoid/readability-buttons
+
 = 2.0.2 =
 * Upgrade widget plugin framework. Settings minor tweaks.
 
