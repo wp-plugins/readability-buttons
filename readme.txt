@@ -37,6 +37,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.0.4 =
+* Remove unused styles and script files for better performance
+
 = 2.0.3 =
 * Moving plugin development repo from WordPress.org to GitHub. You can find the new repo at https://github.com/sparanoid/readability-buttons
 
@@ -50,6 +53,9 @@ Old-styled WordPress Mu:
 * Add options, now all settings on readability.com are available to change.
 
 == Changelog ==
+
+= 2.0.4 =
+* Remove unused styles and script files for better performance
 
 = 2.0.3 =
 * Moving plugin development repo from WordPress.org to GitHub. You can find the new repo at https://github.com/sparanoid/readability-buttons
