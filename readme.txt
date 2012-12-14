@@ -4,13 +4,15 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
 Requires at least: 2.8
 Tested up to: 3.5
-Stable tag: 2.0.4
+Stable tag: 2.0.6
 
-Add readability.com widget on your site.
+Adds readability.com widget on your site.
 
 == Description ==
 
-Add readability.com widget on your site. A must-have plugin if you're a Readability publisher. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
+Adds readability.com widget on your site. A must-have plugin if you're a Readability publisher. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
+
+More information please visit my [site](hhttp://sparanoid.com/work/readability/).
 
 == Installation ==
 
@@ -37,6 +39,12 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.0.6 =
+* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/readability/ props @lianghai
+
+= 2.0.5 =
+* Update description, props @lianghai
+
 = 2.0.4 =
 * Remove unused styles and script files for better performance
 
@@ -53,6 +61,12 @@ Old-styled WordPress Mu:
 * Add options, now all settings on readability.com are available to change.
 
 == Changelog ==
+
+= 2.0.6 =
+* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/readability/ props @lianghai
+
+= 2.0.5 =
+* Update description, props @lianghai
 
 = 2.0.4 =
 * Remove unused styles and script files for better performance
