@@ -1,10 +1,10 @@
 === Readability Buttons (readability.com) ===
 Contributors: Sparanoid
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
+Donate link: http://sparanoid.com/donate/
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
 Requires at least: 2.8
 Tested up to: 3.5
-Stable tag: 2.0.6
+Stable tag: 2.0.7
 
 Adds readability.com widget on your site.
 
@@ -39,6 +39,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.0.7 =
+* Update donate link, If you like this plugin, please consider buying me a cup of coffee.
+
 = 2.0.6 =
 * Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/readability/ props @lianghai
 
@@ -61,6 +64,9 @@ Old-styled WordPress Mu:
 * Add options, now all settings on readability.com are available to change.
 
 == Changelog ==
+
+= 2.0.7 =
+* Update donate link, If you like this plugin, please consider buying me a cup of coffee.
 
 = 2.0.6 =
 * Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/readability/ props @lianghai

@@ -3,7 +3,7 @@
 Plugin Name: Readability Buttons (readability.com)
 Plugin URI: http://sparanoid.com/work/readability/
 Description: Adds readability.com widget for your site.
-Version: 2.0.6
+Version: 2.0.7
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
 Author Email: info@sparanoid.com
@@ -23,6 +23,7 @@ License: GPLv2 or later
   You should have received a copy of the GNU General Public License
   along with this program; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+
 */
 
 class Readability_Widget extends WP_Widget {
