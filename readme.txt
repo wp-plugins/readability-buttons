@@ -3,8 +3,8 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
 Requires at least: 2.8
-Tested up to: 3.5
-Stable tag: 2.0.7
+Tested up to: 3.6
+Stable tag: 2.0.8
 
 Adds readability.com widget on your site.
 
@@ -39,6 +39,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.0.8 =
+* Bump version to let you know it still works
+
 = 2.0.7 =
 * Update donate link, If you like this plugin, please consider buying me a cup of coffee.
 
@@ -64,6 +67,9 @@ Old-styled WordPress Mu:
 * Add options, now all settings on readability.com are available to change.
 
 == Changelog ==
+
+= 2.0.8 =
+* Bump version to let you know it still works
 
 = 2.0.7 =
 * Update donate link, If you like this plugin, please consider buying me a cup of coffee.

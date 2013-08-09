@@ -3,7 +3,7 @@
 Plugin Name: Readability Buttons (readability.com)
 Plugin URI: http://sparanoid.com/work/readability/
 Description: Adds readability.com widget for your site.
-Version: 2.0.7
+Version: 2.0.8
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
 Author Email: info@sparanoid.com
