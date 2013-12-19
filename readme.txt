@@ -4,7 +4,7 @@ Donate link: http://sparanoid.com/donate/
 Tags: widget, sidebar, readability, share, button, javascript, multisite, wpmu
 Requires at least: 2.8
 Tested up to: 3.9
-Stable tag: 2.0.9
+Stable tag: 2.0.10
 
 Adds readability.com widget on your site.
 
@@ -39,6 +39,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.0.10 =
+* Bump version to refresh WordPress.org plugin page, sorry to borther you.
+
 = 2.0.9 =
 * Compatibility check for 3.7, 3.8, and 3.9 alpha, now you can toggle "Read Now" and "Read Later" individually.
 
@@ -70,6 +73,9 @@ Old-styled WordPress Mu:
 * Add options, now all settings on readability.com are available to change.
 
 == Changelog ==
+
+= 2.0.10 =
+* Bump version to refresh WordPress.org plugin page, sorry to borther you.
 
 = 2.0.9 =
 * Compatibility check for 3.7, 3.8, and 3.9 alpha, now you can toggle "Read Now" and "Read Later" individually.
